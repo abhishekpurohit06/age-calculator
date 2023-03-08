@@ -1,0 +1,126 @@
+body{
+    background-color: blueviolet;
+}
+
+.top{
+    color: white;
+    background-color: black;
+    width: 500px;
+    height: auto;
+    
+}
+
+.line{
+    width: 500px;
+    height: 2px;
+    margin-top: -20px;
+    background-color: blueviolet;
+    border: 0px;
+}
+
+.box{
+    width: 500px;
+    margin-top: -8px;
+    margin-bottom: -10px;
+    background-color: bisque;
+    height: 270px;
+    display: inline-flex;
+}
+
+.dete,.month,.year{
+    width: 90px;
+    height: 30px;
+    margin-top: 10px;
+    border: 0px;
+
+}
+
+.button{
+    height: 50px;
+    width: 140px;
+    margin-top: 150px;
+    margin-left: -300px;
+    display: inline-block;
+    background-color: blueviolet;
+    border:0px;
+    text-align: center;
+}
+
+.button:hover{
+    height: 50px;
+    width: 140px;
+    margin-top: 150px;
+    margin-left: -300px;
+    display: inline-block;
+    background-color: greenyellow ;
+    border:0px;
+}
+
+
+.dete{
+    margin-top: 70px;
+    margin-left: -50px;
+    border: 1px;   
+    display: block;
+    border-color:blue;
+}
+
+.date{
+    margin-left: 10px;
+    margin-top: 40px;
+    color: blue;
+    
+
+}
+
+.month{
+    margin-top: 70px;
+    margin-left: -70px;
+    border: 6px;
+    display: block;
+    border-color:blue;
+}
+
+.monthe{
+    margin-left: 90px;
+    margin-top: 40px;
+    color: blue;
+}
+
+.year{
+    margin-top: 70px;
+    margin-left: -50px;
+    border: 1px;
+    border:none;
+    display: block;
+    border-color:blue;
+}
+
+.yeare{
+    margin-left: 100px;
+    margin-top: 40px;
+    color: blue;
+}
+
+
+
+
+#age{
+    display: block;
+    width: 500px;
+    height: 50px;
+    margin-top: 60px;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: red;
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+
+
+ 
